@@ -1,0 +1,66 @@
+body {
+    font-family: 'Bitter', serif;
+    margin: 0;
+    padding: 0;
+    color: #2A3A3F;
+
+    .app {
+        .my-btn {
+            display: block;
+            border-radius: 30px;
+            border: solid 2px #FDCD3B;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: #fff;
+            text-decoration: none;
+            &:hover {
+                background-color: #FDCD3B;
+                text-decoration: underline;
+            }
+            &:visited {
+                color: #fff;
+            }
+        }
+
+        .header {
+            background: url(../images/bg.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            height: 100vh;
+            text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            font-size: 1.5em;
+
+            h1 {
+                width: 100%;
+            }
+        }
+
+        .projects {
+            height: 500px;
+        }
+
+        .contact {
+            padding: 50px;
+            text-align: center;
+            background: #FDCD3B;
+
+            h3 {
+                font-size: 1.8em;
+            }
+            p {
+                font-size: 1.3em;
+            }
+
+            a {
+                border-color: #2A3A3F;
+            }
+        }
+    }
+}
