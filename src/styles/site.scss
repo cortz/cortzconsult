@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     color: #2A3A3F;
+    width: 100%;
 
     .app {
         .my-btn {
@@ -30,15 +31,17 @@ body {
             background-size: cover;
             height: 100vh;
             text-align: center;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
+            // display: flex;
+            // flex-wrap: wrap;
+            // justify-content: center;
+            // align-items: center;
             color: #fff;
             font-size: 1.5em;
 
             h1 {
                 width: 100%;
+                margin-top: 30vh;
+                margin-bottom: 30vh;
             }
         }
 
@@ -58,11 +61,15 @@ body {
                         font-size: 24px;
                     }
                 }
+
+                img {
+                    width: 100%;
+                }
             }
         }
 
         .contact {
-            padding: 50px;
+            padding: 50px 0;
             text-align: center;
             background: #FDCD3B;
 
@@ -71,10 +78,13 @@ body {
             }
             p {
                 font-size: 1.3em;
+                margin-top: 20px;
+                line-height: 20px;
             }
 
             a {
                 border-color: #2A3A3F;
+                margin-top: 35px;
             }
         }
     }

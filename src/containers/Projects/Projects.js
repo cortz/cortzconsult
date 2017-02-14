@@ -7,20 +7,20 @@ import Project from './components/Project';
 export default function Projects() {
     return (
         <div>
-            <Col md={12} className="projects">
+            <Col lg={12} md={12} sm={12} xs={12} className="projects">
                 <Grid>
                     <Row>
-                        <Col md={12}>
+                        <Col lg={12} md={12} sm={12} xs={12}>
                             <h2 className="text-center">Projects</h2>
                             <Project />
                         </Col>
                     </Row>
                 </Grid>
             </Col>
-            <Col md={12} className="contact">
+            <Col lg={12} md={12} sm={12} xs={12} className="contact">
                 <Grid>
                     <Row>
-                        <Col md={12}>
+                        <Col lg={12} md={12} sm={12} xs={12}>
                             <Contact />
                         </Col>
                     </Row>

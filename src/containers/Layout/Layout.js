@@ -12,7 +12,7 @@ class Layout extends Component {
             <div className="app">
                 <Grid fluid="true">
                     <Row>
-                        <Col md={12} className="header">
+                        <Col lg={12} md={12} sm={12} xs={12} className="header">
                             <h1>Hi, I'm Mads. I build web applications.</h1>
                             <a href="mailto:mads@cortzconsult.dk" className="my-btn">Yes I'm available for hire!</a>
                         </Col>
