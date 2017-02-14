@@ -6,7 +6,7 @@ body {
 
     .app {
         .my-btn {
-            display: block;
+            display: inline-block;
             border-radius: 30px;
             border: solid 2px #FDCD3B;
             padding: 10px 20px;
@@ -43,7 +43,22 @@ body {
         }
 
         .projects {
-            height: 500px;
+            padding: 50px 0;
+
+            .project {
+                margin-bottom: 20px;
+                border-bottom: solid 1px #f3f3f3;
+
+                .odd {
+                    background-color: #f3f3f3;
+                }
+
+                cite {
+                    span {
+                        font-size: 24px;
+                    }
+                }
+            }
         }
 
         .contact {

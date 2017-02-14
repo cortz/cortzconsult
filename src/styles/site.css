@@ -4,7 +4,7 @@ body {
   padding: 0;
   color: #2A3A3F; }
   body .app .my-btn {
-    display: block;
+    display: inline-block;
     border-radius: 30px;
     border: solid 2px #FDCD3B;
     padding: 10px 20px;
@@ -33,7 +33,14 @@ body {
     body .app .header h1 {
       width: 100%; }
   body .app .projects {
-    height: 500px; }
+    padding: 50px 0; }
+    body .app .projects .project {
+      margin-bottom: 20px;
+      border-bottom: solid 1px #f3f3f3; }
+      body .app .projects .project .odd {
+        background-color: #f3f3f3; }
+      body .app .projects .project cite span {
+        font-size: 24px; }
   body .app .contact {
     padding: 50px;
     text-align: center;
