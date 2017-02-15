@@ -38,10 +38,17 @@ body {
             color: #fff;
             font-size: 1.5em;
 
+            img {
+                width: 200px;
+                border-radius: 100%;
+                margin-top: 10vh;
+                border: solid 4px #fff;
+            }
+
             h1 {
                 width: 100%;
-                margin-top: 30vh;
-                margin-bottom: 30vh;
+                margin-top: 10vh;
+                margin-bottom: 20vh;
             }
         }
 
@@ -72,14 +79,16 @@ body {
             padding: 50px 0;
             text-align: center;
             background: #FDCD3B;
+            height: 100vh;
 
             h3 {
+                margin-top: 30vh;
                 font-size: 1.8em;
             }
             p {
                 font-size: 1.3em;
                 margin-top: 20px;
-                line-height: 20px;
+                line-height: 30px;
             }
 
             a {
