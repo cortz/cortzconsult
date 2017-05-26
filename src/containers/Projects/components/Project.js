@@ -7,14 +7,14 @@ export default function Project() {
         <div>
             <Row className="project">
                 <Col md={6} sm={12} xs={12}>
-                    <h3>Shippii</h3>
+                    <h3>Lorem Ipsum</h3>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et sagittis felis. Quisque sed iaculis tellus. Duis sit amet dolor ut tortor porttitor accumsan. Pellentesque venenatis, risus non convallis rutrum, felis felis pharetra lacus, at imperdiet arcu augue quis tellus. Nam tincidunt bibendum venenatis. Suspendisse eu convallis nisi, vel consectetur sem. Ut sagittis dignissim auctor. Donec pulvinar gravida accumsan. Maecenas porttitor in arcu non ultricies.
 
                         rhoncus. Vestibulum porttitor auctor orci, sed ornare dolor ultrices non. Nulla non massa fermentum quam tempor tincidunt at eget purus. Pellentesque at augue a dolor mattis varius id ut justo. Maecenas eu urna id nisl interdum tristique et quis nunc. Ut eu consectetur nunc. Nam at posuere orci.
                     </p>
                     <p>
-                        <cite><span>“</span> Mads er en rigtig dygtig udvikler, tak for alt!<span>”</span></cite>
+                        <cite><span>“</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit.<span>”</span></cite>
                     </p>
                 </Col>
                 <Col md={6} sm={12} xs={12}>
@@ -23,12 +23,12 @@ export default function Project() {
             </Row>
             <Row className="project">
                 <Col md={6} sm={12} xs={12}>
-                    <h3>Shippii</h3>
+                    <h3>Lorem Ipsum</h3>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et sagittis felis. Quisque sed iaculis tellus. Duis sit amet dolor ut tortor porttitor accumsan. Pellentesque venenatis, risus non convallis rutrum, felis felis pharetra lacus, at imperdiet arcu augue quis tellus. Nam tincidunt bibendum venenatis. Suspendisse eu convallis nisi, vel consectetur sem. Ut sagittis dignissim auctor. Donec pulvinar gravida accumsan. Maecenas porttitor in arcu non ultricies.
                     </p>
                     <p>
-                        <cite><span>“</span> Mads er en rigtig dygtig udvikler, tak for alt! Jeg vil gå så langt og sige, at han er en rigtig guttermand!<span>”</span></cite>
+                        <cite><span>“</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit.<span>”</span></cite>
                     </p>
                 </Col>
                 <Col md={6} sm={12} xs={12}>

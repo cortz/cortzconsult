@@ -94,6 +94,11 @@ body {
             a {
                 border-color: #2A3A3F;
                 margin-top: 35px;
+
+                &:active {
+                    background-color: #fff;
+                    color: #2A3A3F;
+                }
             }
         }
     }
