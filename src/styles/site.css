@@ -39,8 +39,7 @@ body {
   body .app .projects {
     padding: 50px 0; }
     body .app .projects .project {
-      margin-bottom: 20px;
-      border-bottom: solid 1px #f3f3f3; }
+      margin: 50px 0; }
       body .app .projects .project .odd {
         background-color: #f3f3f3; }
       body .app .projects .project cite span {
@@ -65,3 +64,5 @@ body {
       body .app .contact a:active {
         background-color: #fff;
         color: #2A3A3F; }
+    body .app .contact .skills {
+      margin-top: 100px; }
