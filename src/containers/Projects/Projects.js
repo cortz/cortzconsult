@@ -11,7 +11,7 @@ export default function Projects() {
                 <Grid>
                     <Row>
                         <Col lg={12} md={12} sm={12} xs={12}>
-                            <h2 className="text-center">Projects</h2>
+                            <h2 className="text-center">Projekter</h2>
                             <Project />
                         </Col>
                     </Row>

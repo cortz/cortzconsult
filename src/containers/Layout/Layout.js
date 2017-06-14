@@ -24,8 +24,8 @@ class Layout extends Component {
                     <Row>
                         <Col lg={12} md={12} sm={12} xs={12} className="header">
                             <img src={me} />
-                            <h1>Hi, I'm Mads. I build web applications.</h1>
-                            <a href="#" className="my-btn" onClick={this.scrollToBottom}>Yes I'm available for hire!</a>
+                            <h1>Hej, jeg hedder Mads. Jeg laver web løsninger</h1>
+                            <a href="#" className="my-btn" onClick={this.scrollToBottom}>Jeg er ledig til nye projekter!</a>
                         </Col>
                         
                         {this.props.children}

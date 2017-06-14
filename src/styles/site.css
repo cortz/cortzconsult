@@ -61,8 +61,5 @@ body {
     body .app .contact a {
       border-color: #2A3A3F;
       margin-top: 35px; }
-      body .app .contact a:active {
-        background-color: #fff;
-        color: #2A3A3F; }
     body .app .contact .skills {
       margin-top: 100px; }

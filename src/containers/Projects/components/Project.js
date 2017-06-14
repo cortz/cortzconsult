@@ -10,12 +10,13 @@ export default function Project() {
             <Row className="project">
                 
                 <Col md={6} sm={12} xs={12}>
-                    <h3>Choose drop off point</h3>
+                    <h3>Vælg afleverings-sted til pakke</h3>
                     <p>
-                        Small project where you are able to choose where you want your package to be dropped off. <br/>
-                        It's build with <strong>bootstrap</strong> and <strong>jQuery</strong>.<br/>
-                        Data is pulled from bring and Shippii then shown on a map from <strong>Google Maps API</strong>.<br/><br/>
-                        Time used: <strong>8 hours.</strong>
+                        Lille projekt, hvor du har mulighed for, at vælge det sted du vil have leveret din pakke.
+                        Opgaven blev bestilt til en webshop og skulle implementeres lige inden køb af vare. <br/>
+                        Det er bygget med <a href="http://getbootstrap.com/">bootstrap</a> og <a href="https://jquery.com/">jQuery</a>. <br/> 
+                        Data bliver taget fra <a href="http://bring.com/">bring</a> og <a href="http://shippii.com/">Shippii</a>, hvorefter det bliver vist på et map fra <a href="https://developers.google.com/maps/">Google Maps API</a>. <br/><br/>
+                        Tid brugt: <strong>8 timer.</strong>
                     </p>
                 </Col>
                 <Col md={6} sm={12} xs={12}>
