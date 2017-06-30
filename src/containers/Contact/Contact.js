@@ -15,7 +15,9 @@ class Contact extends Component {
                 <a href="mailto:mads@cortzconsult.dk" className="my-btn">Kontakt mig</a>
                 <div className="skills">
                     <h4>Jeg er ekspert i:</h4>
-                    <code>C#, ASP.NET, jQuery, SQL, HTML5, CSS3, SCSS, LESS, AWS, CDN, JavaScript, Git</code>
+                    <div className="tags">
+                        C#, ASP.NET, React, jQuery, SQL, HTML5, CSS3, SCSS, LESS, AWS, CDN, JavaScript, Git
+                    </div>
                 </div>
             </div>
         )

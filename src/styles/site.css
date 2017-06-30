@@ -52,7 +52,7 @@ body {
     background: #FDCD3B;
     height: 100vh; }
     body .app .contact h3 {
-      margin-top: 30vh;
+      margin-top: 20vh;
       font-size: 1.8em; }
     body .app .contact p {
       font-size: 1.3em;
@@ -62,4 +62,10 @@ body {
       border-color: #2A3A3F;
       margin-top: 35px; }
     body .app .contact .skills {
-      margin-top: 100px; }
+      margin-top: 80px; }
+      body .app .contact .skills .tags {
+        display: inline-block;
+        background-color: #F4EAD5;
+        border-radius: 5px;
+        padding: 0 5px;
+        color: #E94E77; }
