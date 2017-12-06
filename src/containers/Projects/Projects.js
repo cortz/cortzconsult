@@ -7,7 +7,7 @@ import Project from './components/Project';
 export default function Projects() {
     return (
         <div>
-            <Col lg={12} md={12} sm={12} xs={12} className="projects">
+            {/* <Col lg={12} md={12} sm={12} xs={12} className="projects">
                 <Grid>
                     <Row>
                         <Col lg={12} md={12} sm={12} xs={12}>
@@ -16,7 +16,7 @@ export default function Projects() {
                         </Col>
                     </Row>
                 </Grid>
-            </Col>
+            </Col> */}
             <Col lg={12} md={12} sm={12} xs={12} className="contact">
                 <Grid>
                     <Row>
