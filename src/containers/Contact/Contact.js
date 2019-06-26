@@ -16,7 +16,7 @@ class Contact extends Component {
                 <div className="skills">
                     <h4>I'm really good at</h4>
                     <div className="tags">
-                        C#, ASP.NET, React, jQuery, SQL, HTML5, CSS3, SCSS, LESS, AWS, CDN, JavaScript, Git, Azure
+                        Vue.js, C#, ASP.NET, React, SQL, HTML5, CSS3, SCSS, LESS, AWS, CDN, JavaScript, Git, Azure
                     </div>
                 </div>
             </div>
