@@ -12,7 +12,7 @@ class Contact extends Component {
                 <h3>Want to work together?</h3>
                 <p>I'm currently accepting new projects and would love to hear about yours.<br /> 
                 Please take a few minutes to tell me about it.</p>
-                <a href="mailto:mads@cortzconsult.dk" className="my-btn">Contact me!</a>
+                <a href="mailto:madscortz@gmail.dk" className="my-btn">Contact me!</a>
                 <div className="skills">
                     <h4>I'm really good at</h4>
                     <div className="tags">
