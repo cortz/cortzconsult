@@ -4,7 +4,7 @@ import {IndexLink, browserHistory} from 'react-router';
 import {Grid, Row, Col, MenuItem} from 'react-bootstrap';
 import { animateScroll } from "react-scroll";
 
-import me from '../../images/me.jpg';
+import me from '../../images/me.png';
 
 class Layout extends Component {
     constructor(props) {
