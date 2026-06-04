@@ -21,3 +21,9 @@ Deploy from the repository root (no npm build):
 3. **Folder:** `/ (root)`
 
 If this repo is `cortz/cortzconsult`, the site URL is typically `https://cortz.github.io/cortzconsult/`. A user-site repo (`cortz.github.io`) would be served at `https://cortz.github.io`.
+
+Custom domain: `cortzconsult.dk` (see `CNAME`).
+
+## Notes
+
+- Analytics still uses legacy Universal Analytics (`UA-…`); migrating to GA4 is a separate follow-up.
